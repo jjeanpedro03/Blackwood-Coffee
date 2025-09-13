@@ -1,0 +1,65 @@
+/* Estilos para o menu de navegação em telas menores */
+@media (max-width: 768px) {
+    /* Esconde o menu por padrão */
+    nav {
+        position: fixed;
+        top: 0;
+        left: -100%; /* Inicia fora da tela */
+        width: 100%;
+        height: 100vh; /* Altura total da tela */
+        background-color: rgba(0, 0, 0, 0.9);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        transition: left 0.3s ease; /* Adiciona uma transição suave */
+        z-index: 10;
+    }
+
+    /* Mostra o menu quando a classe 'active' está presente */
+    nav.active {
+        left: 0;
+    }
+
+    /* Estiliza os links do menu */
+    .menu {
+        flex-direction: column;
+        text-align: center;
+        width: 100%;
+    }
+
+    .menu li {
+        margin: 20px 0;
+    }
+
+    /* Estiliza o botão do menu hambúrguer */
+    .hamburger-menu {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 30px;
+        height: 25px;
+        cursor: pointer;
+        z-index: 20;
+    }
+
+    .hamburger-menu .bar {
+        width: 100%;
+        height: 3px;
+        background-color: white;
+        transition: transform 0.3s, opacity 0.3s;
+    }
+
+    /* Transforma o hambúrguer em um X quando a classe 'active' está presente */
+    .hamburger-menu.active .bar:nth-child(2) {
+        opacity: 0; /* Esconde a barra do meio */
+    }
+
+    .hamburger-menu.active .bar:nth-child(1) {
+        transform: translateY(11px) rotate(45deg);
+    }
+
+    .hamburger-menu.active .bar:nth-child(3) {
+        transform: translateY(-11px) rotate(-45deg);
+    }
+}
