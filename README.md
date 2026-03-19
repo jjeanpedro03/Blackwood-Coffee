@@ -54,9 +54,3 @@ O **Blackwood Coffee** é um site institucional completo para uma cafeteria prem
 │   └── scripts.js          # Lógica de interatividade e validações
 ├── img/                    # Assets visuais (Logotipos, Banners e Cards)
 └── index.html              # Ponto de entrada principal
-
----
-
-<p align="center">
-  Feito por Jean Pedro 🚀
-</p>
