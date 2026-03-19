@@ -2,7 +2,9 @@
 
 > Uma experiência premium de cafeteria digital, focada em design sofisticado, interface intuitiva e sistema de reservas integrado.
 
-![Capa do Projeto Blackwood Coffee](https://raw.githubusercontent.com/jjeanpedro03/Blackwood-Coffee/main/img/capa-readme.png)
+<p align="center">
+  <img src="./img/capa-readme.png" alt="Blackwood Coffee"/>
+</p>
 
 ## 🚀 Sobre o Projeto
 O **Blackwood Coffee** é um site institucional completo para uma cafeteria de alto padrão. O objetivo do projeto foi criar uma plataforma que não apenas apresentasse os produtos, mas que também oferecesse funcionalidades reais de interação, como agendamento de mesas e contato direto, utilizando tecnologias fundamentais de desenvolvimento web.
