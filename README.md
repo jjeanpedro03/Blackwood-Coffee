@@ -1,20 +1,38 @@
-# ☕ Blackwood Coffee
+<h1 align="center">☕ Blackwood Coffee</h1>
 
-> Uma experiência premium de cafeteria digital, focada em design sofisticado, interface intuitiva e sistema de reservas integrado.
+<p align="center">
+  Uma experiência premium de cafeteria digital, com design sofisticado e sistema de reservas.
+</p>
 
 <p align="center">
   <img src="./img/capa-readme.png" alt="Blackwood Coffee"/>
 </p>
 
 ## 🚀 Sobre o Projeto
-O **Blackwood Coffee** é um site institucional completo para uma cafeteria de alto padrão. O objetivo do projeto foi criar uma plataforma que não apenas apresentasse os produtos, mas que também oferecesse funcionalidades reais de interação, como agendamento de mesas e contato direto, utilizando tecnologias fundamentais de desenvolvimento web.
 
-## 🛠️ Tecnologias e Ferramentas
-Este projeto foi construído utilizando as seguintes tecnologias:
-* **HTML5:** Estrutura semântica focada em SEO.
-* **CSS3:** Design responsivo com Flexbox, Grid e variáveis para manutenção de cores.
-* **JavaScript (Vanilla):** Lógica para menu mobile, manipulação do DOM, animações e integração de APIs.
-* **Formspree:** API para gestão e recebimento de formulários via e-mail.
+O **Blackwood Coffee** é um site institucional completo para uma cafeteria premium...
+
+- Interface moderna e responsiva  
+- Sistema de reservas  
+- Integração com formulário  
+- Experiência focada no usuário  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-estrutura-orange">
+  <img src="https://img.shields.io/badge/CSS3-design-blue">
+  <img src="https://img.shields.io/badge/JavaScript-interatividade-yellow">
+  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-green">
+</p>
+
+<p align="center">
+  <a href="https://jjeanpedro03.github.io/Blackwood-Coffee/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20Acessar%20Projeto-black?style=for-the-badge">
+  </a>
+</p>
+
+## 📸 Preview do Projeto
+
+![Preview](./img/preview.png)
 
 ## 📂 Estrutura de Pastas
 ```text
@@ -33,3 +51,9 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 │   └── scripts.js          # Lógica de interatividade e validações
 ├── img/                    # Assets visuais (Logotipos, Banners e Cards)
 └── index.html              # Ponto de entrada principal
+
+---
+
+<p align="center">
+  Feito por Jean Pedro 🚀
+</p>
