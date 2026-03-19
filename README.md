@@ -18,21 +18,24 @@ O **Blackwood Coffee** é um site institucional completo para uma cafeteria prem
 - Experiência focada no usuário  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-estrutura-orange">
-  <img src="https://img.shields.io/badge/CSS3-design-blue">
-  <img src="https://img.shields.io/badge/JavaScript-interatividade-yellow">
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-green">
-</p>
-
-<p align="center">
   <a href="https://jjeanpedro03.github.io/Blackwood-Coffee/" target="_blank">
     <img src="https://img.shields.io/badge/🔗%20Acessar%20Projeto-black?style=for-the-badge">
   </a>
 </p>
 
-## 🎥 Demonstração
+## ⚙️ Funcionalidades
 
-<img src="./img/preview.gif" width="100%"/>
+- Navegação completa entre páginas (Home, Produtos, Sobre, Reservas e Contato)
+- Sistema de reservas com validação de dados
+- Layout responsivo para mobile e desktop
+- Integração de formulário com envio via Formspree
+- Interface moderna com foco em experiência do usuário
+
+## 💡 Destaques do Projeto
+
+- Estrutura modular de CSS com separação por páginas
+- Uso de JavaScript puro para manipulação do DOM
+- Organização de código focada em escalabilidade
 
 ## 📂 Estrutura de Pastas
 ```text
