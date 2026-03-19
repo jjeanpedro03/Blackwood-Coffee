@@ -30,9 +30,9 @@ O **Blackwood Coffee** é um site institucional completo para uma cafeteria prem
   </a>
 </p>
 
-## 📸 Preview do Projeto
+## 🎥 Demonstração
 
-![Preview](./img/preview.png)
+![Demo](./img/preview.gif)
 
 ## 📂 Estrutura de Pastas
 ```text
