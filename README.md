@@ -32,7 +32,7 @@ O **Blackwood Coffee** é um site institucional completo para uma cafeteria prem
 
 ## 🎥 Demonstração
 
-![Demo](./img/preview.gif)
+<img src="./img/preview.gif" width="100%"/>
 
 ## 📂 Estrutura de Pastas
 ```text
