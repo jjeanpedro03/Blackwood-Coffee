@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://jjeanpedro03.github.io/Blackwood-Coffee/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Visitar%20Projeto-3C1A0F?style=for-the-badge&logo=coffee-script&logoColor=white" alt="Visitar Projeto">
+    <img src="https://img.shields.io/badge/☕🚀%20Visitar%20Projeto-3C1A0F?style=for-the-badge&logo=coffee-script&logoColor=white" alt="Visitar Projeto">
   </a>
 </p>
 
