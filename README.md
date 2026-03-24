@@ -1,7 +1,7 @@
-<h1 align="center">☕ Blackwood Coffee — Site Institucional Premium</h1>
+<h1 align="center">☕ Blackwood Coffee — Site Institucional Responsivo com Sistema de Reservas</h1>
 
 <p align="center">
-  O <strong>Blackwood Coffee</strong> é um site institucional completo para uma cafeteria premium. O foco do desenvolvimento foi criar uma interface de alta fidelidade visual (Pixel Perfect) com uma navegação fluida e sem dependências de frameworks pesados.
+  O <strong>Blackwood Coffee</strong> é um site institucional completo para uma cafeteria, desenvolvido com foco em experiência do usuário, performance e fidelidade visual (Pixel Perfect).
 </p>
 
 <p align="center">
